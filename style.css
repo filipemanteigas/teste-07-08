@@ -1,0 +1,48 @@
+
+h1{
+    color:red;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.book img{
+    width:700px;
+    
+
+}
+body {
+    background-image: url("http://goalnation.com/wp-content/uploads/2015/11/Soccer-Grass-Field-on-GoalNation-Soccer-News.jpg"); background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 10%;
+    
+}
+p{
+    color:red;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.book{
+    display: none;
+}
+.active{
+   display: block ;
+   margin: 0 auto;
+}
+
+#endPage {
+    display: none;
+}
+
+#startPage {
+    display: none;
+}
+
+table{
+    margin: 0 auto ;
+} 
+
+th, td, tr {
+   border: 5px solid black;
+   align-content: center;
+   padding: 20px;
+}
+

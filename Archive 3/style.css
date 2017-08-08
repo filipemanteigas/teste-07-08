@@ -1,0 +1,31 @@
+
+h1{
+    color: #ff704d;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.livro img{
+    width:450px;
+    margin: center;
+
+}
+body {
+    background-color:white;
+    margin-top: 10%;
+}
+p{
+    color:white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.livro{
+    display: none;
+}
+.active{
+   display: none ;
+}
+
+.primeiro{
+    display: block ;
+}
+ 
